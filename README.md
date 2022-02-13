@@ -1,8 +1,11 @@
-### Hi there 👋
+### :smiley_cat: Hi, there
 
+![AkuraDiary's github stats](https://github-readme-stats.vercel.app/api?username=v010maaa&show_icons=true&count_private=true&theme=tokyonight)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=v010maaa&theme=tokyonight&count_private=true" alt="mystreak"/>
+![AkuraDiary's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=v010maaa&theme=tokyonight&layout=compact&count_private=true)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=v010maaa&count_private=true&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=v010maaa&show_icons=true&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<a><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
 
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![React](https://img.shields.io/badge/React-%230175C2.svg?style=for-the-badge&logo=React&logoColor=white)
